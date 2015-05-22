@@ -6,15 +6,11 @@ h1, h2, h3 {
 
 h1 { font-size: 25pt; line-height: 2cm; }
 h2 { font-size: 15pt; }
-h3 { color: black; font-size: 12pt; }
+h3 { font-size: 12pt; }
 
 body 
 { 
-<<<<<<< HEAD
 background-image:url('imagenes/estadio.jpg'); 
-=======
-background-image:url('imagenes/estelar.jpg'); 
->>>>>>> origin/master
 background-repeat:repeat; 
 background-position:center; 
 background-attachment: fixed 
@@ -38,7 +34,6 @@ background-attachment: fixed
 
 .escudos {
 	display: inline;
-<<<<<<< HEAD
 }
 
 .mi_tabla { 
@@ -48,6 +43,3 @@ background-attachment: fixed
  .mi_tabla2 { 
   background-image: url('imagenes/cubos.jpg');
  } 
-=======
-}
->>>>>>> origin/master

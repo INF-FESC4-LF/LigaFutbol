@@ -8,21 +8,13 @@
 
 <body>
 
-<<<<<<< HEAD
     <br/><center><IMG SRC="imagenes/banner3.gif" width='750' height='60'></center>
 	<h1><center>~ BIENVENIDOS ~</center></h1>
-=======
-<!-- <center><IMG SRC="imagenes/banner.gif" width='1204' height='100'></center> !-->
-	<br/>
-	<h1><center>~ BIENVENIDOS A LIGA AZTECA ~</center></h1>
-
->>>>>>> origin/master
 	
 <div class="derecha"><IMG SRC="imagenes/ligaazteca.gif" ></div>
 
 <div class="izquierda"><IMG SRC="imagenes/inicio.gif" width='480' height='320'></div>
 
-<<<<<<< HEAD
 
 
 <br/><br/><br/><br/>
@@ -30,11 +22,6 @@
 <br/><br/><br/>
 
 <!-- Tabla General con Conexión Base de Datos !-->
-=======
-<br/><br/><br/>
-<br/><br/><div><center><IMG SRC="imagenes/tablagral.gif"></center></div>
-<br/><br/><br/>
->>>>>>> origin/master
 
 <?php
 // Conectando, seleccionando la base de datos
@@ -69,7 +56,6 @@ mysql_close($link);
 
 
 <br/><br/><br/>
-<<<<<<< HEAD
 
 <!-- Equipos !-->
 
@@ -117,43 +103,6 @@ mysql_close($link);
 <div><center><a href="index.php"><IMG SRC="imagenes/acceso.gif" ></a></center></div><br/>
 <br/><br/>
 </center>
-=======
-<br/><br/><div><center><IMG SRC="imagenes/equipos.gif"></center></div>
-<br/>
-
-<br/>
-
-<center>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/america.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/atlas.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/jaguares.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/chivas.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/gallos.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/xolos.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/azul.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/leon.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/leonesnegros.gif" width='80' height='80'></a></div>
-</center>
-
-<br/>
-
-<center>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/monterrey.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/monarcas.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/pachuca.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/puebla.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/pumas.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/santos.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/tigres.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/toluca.gif" width='80' height='80'></a></div>
-<div class="escudos"><a href="_.php"><IMG SRC="imagenes/veracruz.gif" width='80' height='80'></a></div>
-</center>
-
-<br/><br/><br/>
-<br/><br/><div><center><a href="index.php"><IMG SRC="imagenes/acceso.gif" ></a></center></div>
-<br/><br/><br/>
-
->>>>>>> origin/master
 
 
 </body>
