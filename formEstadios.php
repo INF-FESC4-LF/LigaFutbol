@@ -6,6 +6,12 @@
 
 <body>
 
+<script>
+
+alert ("Bienvenido");
+
+</script>
+
 <center><h1>Estadios</h1></center>
 
 <center><table border=1 width=250>

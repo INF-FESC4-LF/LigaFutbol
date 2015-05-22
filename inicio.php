@@ -24,6 +24,7 @@
 <br/><br/>
 
 <div><center><IMG SRC="imagenes/equipos.gif"></center></div>
+<h4>(Click en cada logo)</h4>
 <br/><br/>
 <center>
 
@@ -99,18 +100,31 @@ mysql_close($link);
 
 <br/><br/><br/>
 
+<center><a href="jornadas.php"><IMG SRC="imagenes/jornadas.gif" ></a></center>
+<h4>(Click para consultar)</h4>
+
 
 <br/><br/><br/><center><IMG SRC="imagenes/banner3.gif" width='750' height='60'></center>
 
 <!-- Acceso Administradores !-->
 
-<br/><br/><center>
-<div><center><a href="index.php"><IMG SRC="imagenes/acceso.gif" ></a></center></div><br/>
 <br/><br/>
-</center>
 
+<center>
+
+<a href="index.php"><IMG SRC="imagenes/acceso.gif" ></a>
+<h4>(Click para acceder)</h4>
+<br/><br/><br/>
+
+<br/><br/>
 <h3>Visita nuestra pagina en GitHub.</h3>
 <a href="https://github.com/INF-FESC4-LF/LigaFutbol"><IMG SRC="imagenes/git.png" width='145' height='58' ></a>
+
+<br/><br/>
+<h3>Consultar Documentacion.</h3>
+<a href="documentacion.pdf">Entrar</a>
+
+</center>
 
 </body>
 </html>
