@@ -1,4 +1,4 @@
-#Documentación
+#README
 
 Como proyecto a fin de desarrollar una aplicación con Base de Datos se nos propuso realizar una aplicación en la cual se mostrará como es el comportamiento de una página de fútbol, para esto se necesita contar con una Base de Datos, en la cual se tendrán todos los registros pertinentes de una Liga de fútbol (Partidos, Equipos, Jugadores, etc.). Todo lo anterior mencionado será manipulado mediante una página web en la cual se podrán realizar los movimientos de consultas, modificaciones, las modificaciones únicamente podrán ser realizadas mediante un login el cual está activo sólo para los usuarios administradores de la página.
 
@@ -62,8 +62,13 @@ También se cuenta con lo que es:
 Profesor: Para que pueda acceder a modificaciones solo hágalo con cualquiera de estas claves:
 
 -> user: javier   Pass: 123
+
 -> user: alejandro Pass: light
+
 -> user: iriz Pass: yutzil
+
 -> user: abigail Pass: 22mayo
+
 -> user: elena Pass: 2015
+
 -> user: pineda Pass: carlos
