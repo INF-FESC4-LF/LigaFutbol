@@ -8,8 +8,8 @@
 
 <body>
 
-    <br/><center><IMG SRC="imagenes/banner3.gif" width='750' height='60'></center>
-	<h1><center>~ BIENVENIDOS ~</center></h1>
+    <br/><center><IMG SRC="imagenes/banner3.gif" width='750' height='60'></center><br/><br/>
+	<!--<h1><center>~ BIENVENIDOS ~</center></h1> !-->
 	
 <div class="derecha"><IMG SRC="imagenes/ligaazteca.gif" ></div>
 
@@ -109,6 +109,8 @@ mysql_close($link);
 <br/><br/>
 </center>
 
+<h3>Visita nuestra pagina en GitHub.</h3>
+<a href="https://github.com/INF-FESC4-LF/LigaFutbol"><IMG SRC="imagenes/git.png" width='145' height='58' ></a>
 
 </body>
 </html>

@@ -201,17 +201,22 @@ form.login div input[type="submit"] {
 } else {
 
 
-    echo '<h2>Su usuario ingreso correctamente. Cargando...</h2>';
+    echo '<br/><center><h1>Su usuario ingreso correctamente.<br/>Cargando...</h1></center><br/>';
 
     //echo'<br/>Atrás...<br/><br/>'
 
-    //echo '<meta http-equiv="Refresh" content="3;url=http://www.mediotiempo.com">';
+    echo '<meta http-equiv="Refresh" content="3;url=formEstadios.php">';
 
-    echo '<a href="logout.php"><IMG SRC="imagenes/flecha2.jpg"></a>';
+    //echo '<a href="logout.php"><IMG SRC="imagenes/flecha2.jpg"></a>';
 
 }
 
 ?>
+
+
+<br/><br/><br/><br/><br/><br/><br/>
+<center><h1>Regresar</h1><a href="inicio.php"><IMG SRC="imagenes/flecha.gif"></a><center>
+
 
 </body>
 </html>
