@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Liga Azteca</title>
+    <title>Modificaciones</title>
     <link rel="stylesheet" type="text/css" href="estilos/pro1.css">
 </head>
 
@@ -188,7 +188,7 @@ form.login div input[type="submit"] {
 
 <form action="" method="post" class="login">
 
-    <div><label>Username</label><input name="user" type="text" ></div>
+    <div><label>Usario</label><input name="user" type="text" ></div>
 
     <div><label>Password</label><input name="password" type="password"></div>
 
