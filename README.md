@@ -7,10 +7,15 @@ Se tiene en la aplicación un registro variado con una liga completa de fútbol,
 Se manejan logotipos de cada equipo participante en la liga, los equipos participantes son: 
 
 -> America
+
 -> Atlas
+
 -> Chiapas FC
+
 -> Chivas
+
 -> Club Querétaro
+
 -> Club Tijuana
 -> Cruz Azul
 -> León
