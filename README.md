@@ -17,18 +17,31 @@ Se manejan logotipos de cada equipo participante en la liga, los equipos partici
 -> Club Querétaro
 
 -> Club Tijuana
+
 -> Cruz Azul
+
 -> León
+
 -> Leones Negros
+
 -> Monterrey
+
 -> Morelia
+
 -> Pachuca
+
 -> Puebla
+
 -> Pumas
+
 -> Santos
+
 -> Tigres
+
 -> Toluca
+
 -> Veracruz 
+
 
 Cada uno de estos logotipos cuenta con un hipervínculo, el cual redireccionará a una sección donde se muestran los jugadores del equipo seleccionado para así poder tener un conocimiento más profundo del equipo en cuando a jugadores ya que se muestran estadísticas que son de conocimiento necesario para todo amante del fútbol.
 
@@ -48,3 +61,9 @@ También se cuenta con lo que es:
 
 Profesor: Para que pueda acceder a modificaciones solo hágalo con cualquiera de estas claves:
 
+-> user: javier   Pass: 123
+-> user: alejandro Pass: light
+-> user: iriz Pass: yutzil
+-> user: abigail Pass: 22mayo
+-> user: elena Pass: 2015
+-> user: pineda Pass: carlos
