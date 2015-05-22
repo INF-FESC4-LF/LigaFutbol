@@ -42,11 +42,4 @@ También se cuenta con lo que es:
 
 
 Profesor: Para que pueda acceder a modificaciones solo hágalo con cualquiera de estas claves:
-_____________________________
-|  USUARIO   |  CONTRASEÑA  |
-|  javier    |     123      |
-|  alejandro |    light     |
-|   iriz     |    yuzil     |
-| abigail    |    22mayo    |
-|  elena     |    2015      |
-|  pineda    |    carlos    |
+
