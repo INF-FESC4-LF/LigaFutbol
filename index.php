@@ -101,7 +101,11 @@ if(!isset($_SESSION['userid']))
 
 body{
 
+<<<<<<< HEAD
 background-image:url('imagenes/cancha.jpg');
+=======
+background-image:url('imagenes/perrito.jpg');
+>>>>>>> origin/master
 background-repeat:repeat; 
 background-position:center; 
 background-attachment: fixed;
@@ -203,11 +207,19 @@ form.login div input[type="submit"] {
 
     echo '<h2>Su usuario ingreso correctamente. Cargando...</h2>';
 
+<<<<<<< HEAD
     //echo'<br/>Atrás...<br/><br/>'
 
     //echo '<meta http-equiv="Refresh" content="3;url=http://www.mediotiempo.com">';
 
     echo '<a href="logout.php"><IMG SRC="imagenes/flecha2.jpg"></a>';
+=======
+
+
+    echo '<meta http-equiv="Refresh" content="3;url=http://www.mediotiempo.com">';
+
+    //echo '<a href="logout.php">Logout</a>';
+>>>>>>> origin/master
 
 }
 
