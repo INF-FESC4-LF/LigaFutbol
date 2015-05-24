@@ -72,8 +72,11 @@ if(!isset($_SESSION['userid']))
 
             $_SESSION['userid'] = $result->idusuario;
 
-            header('location:modificaciones.php');
+            //header("location:modificaciones.php");
 
+            //echo '<br/><center><h1>Su usuario ingres&oacute; correctamente.<br/>Cargando...</h1></center><br/>';
+            echo '<meta http-equiv="Refresh" content="0;url=formEstadios.php">';
+            
         }
 
         else
@@ -195,20 +198,15 @@ form.login div input[type="submit"] {
 </form>
 
 <?php
-} else {
+} 
 
-
-    echo '<br/><center><h1>Su usuario ingreso correctamente.<br/>Cargando...</h1></center><br/>';
-
-    //echo'<br/>Atrás...<br/><br/>'
-
+/*
+else {
+    echo '<br/><center><h1>Su usuario ingres&oacute; correctamente.<br/>Cargando...</h1></center><br/>';
     echo '<meta http-equiv="Refresh" content="3;url=formEstadios.php">';
+} */
 
-    //echo '<a href="logout.php"><IMG SRC="imagenes/flecha2.jpg"></a>';
-
-}
 ?>
-
 
 <br/><br/><br/><br/><br/><br/><br/>
 <center><h1>Regresar</h1><a href="index.php"><IMG SRC="imagenes/flecha.gif"></a><center>

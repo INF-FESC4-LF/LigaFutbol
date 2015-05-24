@@ -2,6 +2,7 @@
 <head>
 <title>Estadios Modificaciones</title>
 <link rel="stylesheet" type="text/css" href="estilos/pro1.css">
+<link rel="stylesheet" type="text/css" href="estilos/Barra.css">
 </head>
 
 <body>
@@ -56,7 +57,7 @@ mysql_close($link);
 ?>
 
 <br /><br />
-<center><IMG SRC="imagenes/modificaciones.gif"> </center>
+<center><h5><IMG SRC="imagenes/Modificaciones.gif"></h5></center>
 
 
 <br /><br />

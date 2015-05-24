@@ -4,6 +4,7 @@
 <head>
 	<title>Liga Azteca</title>
 	<link rel="stylesheet" type="text/css" href="estilos/pro1.css">
+    <link rel="stylesheet" type="text/css" href="estilos/Barra.css">
 </head>
 
 <body>
@@ -24,7 +25,7 @@
 <center>
 <br/><br/>
 
-<div><center><IMG SRC="imagenes/equipos.gif"></center></div>
+<div><center><h5><IMG SRC="imagenes/Equipos.gif"></h5></center></div>
 <h4>(Click en cada logo)</h4>
 <br/><br/>
 <center>
@@ -60,7 +61,7 @@
 
 
 <!-- Tabla General con Conexión Base de Datos !-->
-<div><center><IMG SRC="imagenes/tablagral.gif"></center></div>
+<div><center><h5><IMG SRC="imagenes/TablaGeneral.gif"></h5></center></div>
 <br/><br/><br/>
 
 <center><table border=1 width=250>
@@ -108,7 +109,7 @@ mysql_close($link);
 
 <br/><br/><br/>
 
-<center><a href="jornadas.php"><IMG SRC="imagenes/jornadas.gif" ></a></center>
+<center><h5><a href="jornadas.php"><IMG SRC="imagenes/Jornadas.gif" ></a></h5></center>
 <h4>(Click para consultar)</h4>
 
 
@@ -116,11 +117,11 @@ mysql_close($link);
 
 <!-- Acceso Administradores !-->
 
-<br/><br/>
+<br/><br/><br/><br/><br/>
 
 <center>
 
-<a href="modificaciones.php"><IMG SRC="imagenes/acceso.gif" ></a>
+<a href="modificaciones.php"><h5><IMG SRC="imagenes/LoginAdministradores.gif" ></h5></a>
 <h4>(Click para acceder)</h4>
 <br/><br/><br/>
 

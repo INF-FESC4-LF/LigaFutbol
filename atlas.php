@@ -3,6 +3,7 @@
 <head>
 	<title>Atlas</title>
 	<link rel="stylesheet" type="text/css" href="estilos/pro1.css">
+	<link rel="stylesheet" type="text/css" href="estilos/Barra.css">
 
 <body>
 
@@ -11,7 +12,7 @@
 <div class="escudos"><center><IMG SRC="imagenes/atlas.gif" width='80' height='80'></center></div>
 <center><h2>Club Atlas</h2></center>
 
-<br/><br/><center><h2>~ Jugadores ~</h2></center>
+<center><h5><IMG SRC="imagenes/jugs.gif"></h5></center>
 
 <center><table border=1 width=900>
 	<tr>

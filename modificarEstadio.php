@@ -1,10 +1,10 @@
 <html>
-<head>
-<title>Form</title>
-<link rel="stylesheet" type="text/css" href="estilos/pro1.css">
-</head>
-
-<body>
+	<head>
+		<title>Form</title>
+		<link rel="stylesheet" type="text/css" href="estilos/pro1.css">
+		<link rel="stylesheet" type="text/css" href="estilos/Barra.css">
+	</head>
+	<body>
 
 <?php
 include("conexionGeneral.php");
@@ -19,7 +19,7 @@ mysql_query("UPDATE Sede set NOMBRE='$_POST[nuevo]' WHERE NOMBRE='$_POST[viejo]'
 ?>
 
 <br/><br/><br/>
-<center><IMG SRC="imagenes/actualizacion.gif"> </center>
+<center><h5><IMG SRC="imagenes/ActExitosa.gif"></h5></center>
 
 <br/><br/><br/>
 <center><h1>Regresar</h1><a href="formEstadios.php"><IMG SRC="imagenes/flecha.gif"></a><center>

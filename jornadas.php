@@ -3,14 +3,15 @@
 <head>
 	<title>Jornadas</title>
 	<link rel="stylesheet" type="text/css" href="estilos/pro1.css">
+	<link rel="stylesheet" type="text/css" href="estilos/Barra.css">
 
 <body>
 
 <br/><br/><br/>
 
-<div class="escudos"><center><IMG SRC="imagenes/jornadas.gif" ></center></div>
+<div class="escudos"><h5><center><IMG SRC="imagenes/Jornadas.gif" ></h5></center></div>
 
-<br/><br/><center><h2>~ Consulta Jornadas ~</h2></center>
+<!--<br/><br/><center><h2>~ Consulta Jornadas ~</h2></center> --!>
 
 
 <!-- Con Cilo !-->
