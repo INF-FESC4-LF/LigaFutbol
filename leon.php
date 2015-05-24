@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Leon</title>
+	<title>Le&oacute;n</title>
 	<link rel="stylesheet" type="text/css" href="estilos/pro1.css">
 
 <body>
@@ -9,7 +9,7 @@
 <br/><br/><br/>
 
 <div class="escudos"><center><IMG SRC="imagenes/leon.gif" width='80' height='80'></center></div>
-<center><h2>Club Leon</h2></center>
+<center><h2>Club Le&oacute;n</h2></center>
 
 <br/><br/><center><h2>~ Jugadores ~</h2></center>
 
@@ -27,12 +27,12 @@
 
 <?php
 // Conectando, seleccionando la base de datos
-$link = mysql_connect('localhost', 'root', '123')
+$link = mysql_connect('localhost', 'practica7', 'Practica7')
     or die('No se pudo conectar: ' . mysql_error());
 
 //echo 'Connected successfully'; //Lo uso para saber si sí conectó a la B.D.
 
-mysql_select_db('LIGA_FUTBOL') or die('No se pudo seleccionar la base de datos');
+mysql_select_db('practica7') or die('No se pudo seleccionar la base de datos');
 
 // Realizar una consulta MySQL
 
@@ -59,7 +59,7 @@ mysql_close($link);
 ?>
 
 <br/><br/><br/>
-<center><h1>Regresar</h1><a href="inicio.php"><IMG SRC="imagenes/flecha.gif"></a><center>
+<center><h1>Regresar</h1><a href="index.php"><IMG SRC="imagenes/flecha.gif"></a><center>
 
 </body>
 </html>

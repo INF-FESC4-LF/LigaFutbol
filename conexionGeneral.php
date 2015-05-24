@@ -1,8 +1,12 @@
+<html>
+<body>
+
 <?php
-
 $host = "localhost";
-$user = "root";
-$pw = "123";
-$db = "LIGA_FUTBOL";
-
+$user = "practica7";
+$pw = "Practica7";
+$db = "practica7";
 ?>
+
+</body>
+</html>

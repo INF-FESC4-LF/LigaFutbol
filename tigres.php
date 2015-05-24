@@ -28,12 +28,12 @@
 
 <?php
 // Conectando, seleccionando la base de datos
-$link = mysql_connect('localhost', 'root', '123')
+$link = mysql_connect('localhost', 'practica7', 'Practica7')
     or die('No se pudo conectar: ' . mysql_error());
 
 //echo 'Connected successfully'; //Lo uso para saber si sí conectó a la B.D.
 
-mysql_select_db('LIGA_FUTBOL') or die('No se pudo seleccionar la base de datos');
+mysql_select_db('practica7') or die('No se pudo seleccionar la base de datos');
 
 // Realizar una consulta MySQL
 
@@ -60,7 +60,7 @@ mysql_close($link);
 ?>
 
 <br/><br/><br/>
-<center><h1>Regresar</h1><a href="inicio.php"><IMG SRC="imagenes/flecha.gif"></a><center>
+<center><h1>Regresar</h1><a href="index.php"><IMG SRC="imagenes/flecha.gif"></a><center>
 
 </body>
 </html>
