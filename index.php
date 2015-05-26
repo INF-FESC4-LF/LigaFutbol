@@ -110,19 +110,25 @@ mysql_close($link);
 <br/><br/><br/>
 
 <center><h5><a href="jornadas.php"><IMG SRC="imagenes/Jornadas.gif" ></a></h5></center>
-<h4>(Click para consultar)</h4>
-
+<h4>(Click en la imagen para consultar)</h4>
 
 <br/><br/><br/><center><IMG SRC="imagenes/banner3.gif" width='750' height='60'></center>
+<center>
+    <h6><IMG SRC="imagenes/contacto.gif"></h6>
+<div class="contacto"><a href="https://www.facebook.com/LigaAztecaFESC4" target="_blank"><IMG SRC="imagenes/fb.gif" width='80' height='80'></a></div>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<div class="contacto"><a href="https://www.twitter.com/LigaAztecaFESC4" target="_blank"><IMG SRC="imagenes/twitter.gif" width='80' height='80'></a></div>
+</center>
 
+<br/>
 <!-- Acceso Administradores !-->
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 <center>
 
 <a href="modificaciones.php"><h5><IMG SRC="imagenes/LoginAdministradores.gif" ></h5></a>
-<h4>(Click para acceder)</h4>
+<h4>(Click en la imagen para acceder)</h4>
 <br/><br/><br/>
 
 <br/><br/>

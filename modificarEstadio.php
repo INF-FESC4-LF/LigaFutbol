@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="estilos/pro1.css">
 		<link rel="stylesheet" type="text/css" href="estilos/Barra.css">
 	</head>
-	<body>
+<body>
 
 <?php
 include("conexionGeneral.php");

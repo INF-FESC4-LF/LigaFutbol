@@ -75,7 +75,7 @@ if(!isset($_SESSION['userid']))
             //header("location:modificaciones.php");
 
             //echo '<br/><center><h1>Su usuario ingres&oacute; correctamente.<br/>Cargando...</h1></center><br/>';
-            echo '<meta http-equiv="Refresh" content="0;url=formEstadios.php">';
+            echo '<meta http-equiv="Refresh" content="0;url=selectorCambios.php">';
             
         }
 
@@ -209,7 +209,7 @@ else {
 ?>
 
 <br/><br/><br/><br/><br/><br/><br/>
-<center><h1>Regresar</h1><a href="index.php"><IMG SRC="imagenes/flecha.gif"></a><center>
+<center><h1>Regresar</h1><a href="index.php"><IMG SRC="imagenes/flecha.gif"></a></center>
 
 
 </body>

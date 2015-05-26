@@ -50,3 +50,7 @@ background-attachment: fixed
  .mi_tabla2 { 
   background-image: url('imagenes/cubos.jpg');
  } 
+
+ .contacto {
+  display: inline;
+}
